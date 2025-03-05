@@ -581,10 +581,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-2.0.0.tgz#f544a148d3ab35801c1f633a7441fd87c2e484bf"
   integrity sha512-XCuKFP5PS55gnMVu3dty8KPatLqUoy/ZYzDzAGCQ8JNFCkLXzmI7vNHCR+XpbZaMWQK/vQubr7PkYq8g470J/A==
 
-"@triton-one/yellowstone-grpc@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@triton-one/yellowstone-grpc/-/yellowstone-grpc-1.2.0.tgz#fd09b8476cc52f94867d8547a55f1fd5d904c636"
-  integrity sha512-TtElO7e8o6ADVPYvABOJrakN8q2v/53x6IJ1qchl798IRQp4yZoLSD6CZXl0zzUQXp8h8fP9ZbNZ+q05bGVw8Q==
+"@triton-one/yellowstone-grpc@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@triton-one/yellowstone-grpc/-/yellowstone-grpc-1.4.1.tgz#b50434f68c3d73c6ce3e1f225656064c080f4b25"
+  integrity sha512-ZN49vooxFbOqWttll8u7AOsIVnX+srqX9ddhZ9ttE+OcehUo8c2p2suK8Gr2puab49cgsV0VGjiTn9Gua/ntIw==
   dependencies:
     "@grpc/grpc-js" "^1.8.0"
 
