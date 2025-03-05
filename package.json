@@ -5,7 +5,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@raydium-io/raydium-sdk-v2": "0.1.106-alpha",
-    "@solana/spl-token": "^0.4.6",
+    "@solana/spl-token": "^0.4.12",
     "@solana/web3.js": "^1.95.3",
     "@triton-one/yellowstone-grpc": "^1.2.0",
     "@types/jsonfile": "^6.1.4",
